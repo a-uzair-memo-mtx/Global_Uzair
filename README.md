@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Uzair Rajput</h1>
 <h3 align="center">A passionate frontend developer from pakistan</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.imgur.com/SCeZfwN.gif">
+<img align="right" alt="coding" width="400" src="https://i.imgur.com/rpCMuwA.jpeg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uzair-mtx-449&label=Profile%20views&color=0e75b6&style=flat" alt="uzair-mtx-449" /> </p>
 
